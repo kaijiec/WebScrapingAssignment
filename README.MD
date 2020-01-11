@@ -1,9 +1,8 @@
-#########################
-# library needed
-# - bs4
-# - pandas
-# - requests
-#########################
+
+library needed
+- bs4
+- pandas
+- requests
 
 To run the script, use:
 
